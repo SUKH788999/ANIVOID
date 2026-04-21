@@ -1,0 +1,10 @@
+Update bot to use HTML parse mode and fix message display errors
+
+Migrated all message formatting from MarkdownV2 to HTML, implemented an escape helper for dynamic content, and resolved "message not modified" errors by adding error handling for message edits.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: adaf7f24-5929-4261-b4ae-9ca188da068e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: d2f15270-12a2-4df5-8e04-ede3585b527f
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/08babed3-f2cd-404b-a285-0ef7f0126979/adaf7f24-5929-4261-b4ae-9ca188da068e/JQBA2j0
+Replit-Helium-Checkpoint-Created: true
